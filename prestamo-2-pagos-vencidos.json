@@ -1,0 +1,279 @@
+{
+  "Monto": 60000,
+  "Mora": 65.87,
+  "Cuota": 11292.1,
+  "Tasa": 0.37,
+  "TasaMora": 0.72,
+  "Balance": 60065.87,
+  "Plazo": 12,
+  "CalendarioPagos": [
+    {
+      "fecha": "2024-10-14T23:59:59.000Z",
+      "status": "F",
+      "Cuota": 11292.1,
+      "abonoCapital": 192.1,
+      "intereses": 11100,
+      "diasMora": 18,
+      "Mora": 49.56,
+      "saldo": 59807.9
+    },
+    {
+      "diasMora": 5,
+      "Cuota": 11292.1,
+      "saldo": 59580.26,
+      "abonoCapital": 227.64,
+      "intereses": 11064.46,
+      "Mora": 16.31,
+      "fecha": "2024-10-29T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 59310.51,
+      "abonoCapital": 269.75,
+      "intereses": 11022.35,
+      "Mora": 0,
+      "fecha": "2024-11-13T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 58990.85,
+      "abonoCapital": 319.66,
+      "intereses": 10972.44,
+      "Mora": 0,
+      "fecha": "2024-11-28T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 58612.06,
+      "abonoCapital": 378.79,
+      "intereses": 10913.31,
+      "Mora": 0,
+      "fecha": "2024-12-13T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 58163.19,
+      "abonoCapital": 448.87,
+      "intereses": 10843.23,
+      "Mora": 0,
+      "fecha": "2024-12-28T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 57631.28,
+      "abonoCapital": 531.91,
+      "intereses": 10760.19,
+      "Mora": 0,
+      "fecha": "2025-01-13T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 57000.97,
+      "abonoCapital": 630.31,
+      "intereses": 10661.79,
+      "Mora": 0,
+      "fecha": "2025-01-28T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 56254.05,
+      "abonoCapital": 746.92,
+      "intereses": 10545.18,
+      "Mora": 0,
+      "fecha": "2025-02-12T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 55368.95,
+      "abonoCapital": 885.1,
+      "intereses": 10407,
+      "Mora": 0,
+      "fecha": "2025-02-27T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 54320.11,
+      "abonoCapital": 1048.84,
+      "intereses": 10243.26,
+      "Mora": 0,
+      "fecha": "2025-03-14T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 53077.23,
+      "abonoCapital": 1242.88,
+      "intereses": 10049.22,
+      "Mora": 0,
+      "fecha": "2025-03-29T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 51604.42,
+      "abonoCapital": 1472.81,
+      "intereses": 9819.29,
+      "Mora": 0,
+      "fecha": "2025-04-14T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 49859.14,
+      "abonoCapital": 1745.28,
+      "intereses": 9546.82,
+      "Mora": 0,
+      "fecha": "2025-04-29T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 47790.98,
+      "abonoCapital": 2068.16,
+      "intereses": 9223.94,
+      "Mora": 0,
+      "fecha": "2025-05-14T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 45340.21,
+      "abonoCapital": 2450.77,
+      "intereses": 8841.33,
+      "Mora": 0,
+      "fecha": "2025-05-29T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 42436.05,
+      "abonoCapital": 2904.16,
+      "intereses": 8387.94,
+      "Mora": 0,
+      "fecha": "2025-06-13T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 38994.62,
+      "abonoCapital": 3441.43,
+      "intereses": 7850.67,
+      "Mora": 0,
+      "fecha": "2025-06-28T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 34916.52,
+      "abonoCapital": 4078.1,
+      "intereses": 7214,
+      "Mora": 0,
+      "fecha": "2025-07-14T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 30083.98,
+      "abonoCapital": 4832.54,
+      "intereses": 6459.56,
+      "Mora": 0,
+      "fecha": "2025-07-29T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 24357.42,
+      "abonoCapital": 5726.56,
+      "intereses": 5565.54,
+      "Mora": 0,
+      "fecha": "2025-08-13T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 17571.44,
+      "abonoCapital": 6785.98,
+      "intereses": 4506.12,
+      "Mora": 0,
+      "fecha": "2025-08-28T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11292.1,
+      "saldo": 9530.06,
+      "abonoCapital": 8041.38,
+      "intereses": 3250.72,
+      "Mora": 0,
+      "fecha": "2025-09-12T23:59:59.000Z",
+      "status": "F"
+    },
+    {
+      "diasMora": 0,
+      "Cuota": 11293.12,
+      "saldo": 0,
+      "abonoCapital": 9529.04,
+      "intereses": 1763.06,
+      "Mora": 0,
+      "fecha": "2025-09-27T23:59:59.000Z",
+      "status": "F"
+    }
+  ],
+  "Transacciones": [],
+  "fecha_primer_pago": {
+    "_seconds": 1728950399,
+    "_nanoseconds": 0
+  },
+  "fecha_ultimo_pago": {
+    "_seconds": 1744502399,
+    "_nanoseconds": 0
+  },
+  "fechaCreado": {
+    "_seconds": 1730721323,
+    "_nanoseconds": 978000000
+  },
+  "fechaFirma": {
+    "_seconds": 1699660799,
+    "_nanoseconds": 0
+  },
+  "status": "Firmado",
+  "UserDocReference": {
+    "_firestore": {
+      "projectId": "prestonesto-af804"
+    },
+    "_path": {
+      "segments": ["users", "6kRT3qHuwRRGwWRxSZNp"]
+    },
+    "_converter": {}
+  },
+  "id": "WLQPbtSr5eBF18zTLStk"
+}
